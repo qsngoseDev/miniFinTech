@@ -1,1 +1,1 @@
-# MiniFintech Project
+# MiniFintech
